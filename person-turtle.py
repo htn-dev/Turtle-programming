@@ -16,7 +16,6 @@ def draw_Scarlett():
     draw_leg1(brad)
     draw_leg2(brad)
  
- 
 def draw_head(brad):
     brad.circle(60)
     brad.speed(3)
