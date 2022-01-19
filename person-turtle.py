@@ -6,7 +6,6 @@ def draw_dream():
     draw_Scarlett()
     window.exitonclick()
  
- 
 def draw_Scarlett():
     brad = turtle.Turtle()
     brad.shape("turtle")
