@@ -1,4 +1,4 @@
-# Python program
+# Python program to draw a person
 
 import turtle
  
