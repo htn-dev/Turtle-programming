@@ -23,7 +23,6 @@ def draw_head(brad):
     brad.speed(3)
     brad.right(60)
  
- 
 def draw_body(brad):
     num = 0
     while num < 3:
