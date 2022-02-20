@@ -3,7 +3,7 @@
 import turtle
 star = turtle.Turtle()
  
-star.right(75)
+star.right(7)
 star.forward(100)
  
 for i in range(4):
