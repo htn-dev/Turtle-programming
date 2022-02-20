@@ -32,7 +32,6 @@ def draw_body(brad):
         brad.speed(1)
         num += 1
  
- 
 def draw_arm(brad):
     brad.forward(60)
     brad.left(60)
