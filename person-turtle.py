@@ -79,7 +79,6 @@ def draw_foot1(brad):
         brad.forward(20)
         brad.right(90)
         num += 1
-
  
 def draw_foot2(brad):
     brad.color("blue")
