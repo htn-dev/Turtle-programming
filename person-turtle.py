@@ -21,7 +21,7 @@ def draw_Scarlett():
 def draw_head(brad):
     brad.circle(60)
     brad.speed(3)
-    brad.right(60 )
+    brad.right(60)
  
  
 def draw_body(brad):
