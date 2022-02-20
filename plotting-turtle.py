@@ -2,7 +2,7 @@ import turtle
 
 wn = turtle.Screen()
 wn.bgcolor("light green")
-wn.title("Turtle")
+wn.title("turtle")
 skk = turtle.Turtle()
 
 skk.forward(100)
