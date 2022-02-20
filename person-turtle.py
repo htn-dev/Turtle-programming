@@ -56,8 +56,7 @@ def draw_leg1(brad):
     brad.forward(40)
     brad.right(120)
     brad.forward(120)
-    draw_foot1(brad)
- 
+    draw_foot1(brad) 
  
 def draw_leg2(brad):
     brad.color("red")
